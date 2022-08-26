@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Montserrat:wght@200&family=Open+Sans:wght@300&family=Pacifico&display=swap');
+
+body {
+    background-color: #5F9EA0;
+}
+
+h1, h2 {
+    font-family: 'Montserrat';
+}
+
+.preencher-infos {
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+#peso, #altura {
+    margin: 5px 0px;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    margin: 0;
+}
+
+#botao {
+    margin-top: 5px;
+    color: #fff;
+    background-color: #f6a489;
+    border-radius: 5px;
+    border: solid transparent;
+    padding: 3px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
